@@ -19,3 +19,27 @@ li[class] {
 section li {
   color: var(--green);
 }
+
+li[class="dog"] {
+  color: var(--magenta);
+}
+
+li[class="cat"] {
+  color: var(--teal);
+}
+
+li[class="parrot"] {
+  color: green;
+}
+
+li[class="donkey"] {
+  color: var(--royalblue);
+}
+
+li[class="hedgehog"] {
+  color: var(--darkmagenta);
+}
+
+li[class="cat dog parrot"] {
+  color: var(--royalblue);
+}
