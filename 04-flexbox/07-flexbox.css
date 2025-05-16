@@ -21,7 +21,8 @@
   display: flex;
   flex-direction: column-reverse;
   flex-wrap: wrap;
-  justify-content: right;
+  justify-content: center;
+  align-content: flex-end;
   height: 400px;
 }
 /* use height: 400px; on the container */
