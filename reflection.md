@@ -6,8 +6,7 @@ Enter your reflections on this section here.
 
 ### Accessibility
 
-Enter your reflections on this section here.
-
+It is important to attribute labels to form elements. Simpy using the label tag with its for attribute matching the element's id, we can eliminate these accessibility issues.
 ### CSS
 
 Enter your reflections on this section here.
