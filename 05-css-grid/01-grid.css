@@ -9,13 +9,18 @@
   gap: 5px;
 }
 
+/* Grid Container 2 */
+
+/* use height: 400px; on the container */
+
 .grid-container-2 {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: 1fr 4fr;
   gap: 5px;
 }
-/* Grid Container 2 */
+
+/* Grid Container 3 */
 
 /* use height: 400px; on the container */
 
@@ -29,9 +34,6 @@
 .grid-container-3 > .item8 {
   grid-column: span 2;
 }
-/* Grid Container 3 */
-
-/* use height: 400px; on the container */
 
 /* Grid Container 4 */
 .grid-container-4 {
