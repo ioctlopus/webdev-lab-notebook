@@ -16,3 +16,5 @@ of any exercises that woud help otherthan these.
 The CSS exercised were very difficut. I needed the videos for a good number of them. However, these exercises
 were incrediby helpful. I woud have liked more discussion and exercises involving media ueries. Those were
 confusing.
+
+### Bootstrap
