@@ -13,8 +13,15 @@ of any exercises that woud help otherthan these.
 
 ### CSS
 
-The CSS exercised were very difficut. I needed the videos for a good number of them. However, these exercises
-were incrediby helpful. I woud have liked more discussion and exercises involving media ueries. Those were
+The CSS exercises were very difficut. I needed the videos for a good number of them. However, these exercises
+were incrediby helpful. I woud have liked more discussion and exercises involving media queries. Those were
 confusing.
+
+### Flexbox
+
+I definitely needed video help completing the Flexbox exercises. However, Flexbox is extremely useful
+and seems to address a lot of the difficulties I have had understanding positioning with CSS. I would
+have lied to have a more detailed explaination about Flexbox properties. Maybe exercises demonstrating
+multiple layouts would have been helpful.
 
 ### Bootstrap
