@@ -8,8 +8,11 @@ I would have liked more information about the various options for "type." I woud
 
 ### Accessibility
 
-It is important to attribute labels to form elements. Simpy using the label tag with its for attribute matching the element's id, we can eliminate these accessibility issues. This exercise did not require much video support for me. I have not
+It is important to attribute labels to form elements. Simpy using the label tag with its for attribute matching the element's id, we can eliminate these accessibility issues. This exercise did not require much video support for me. I have not thought
+of any exercises that woud help otherthan these.
 
 ### CSS
 
-Enter your reflections on this section here.
+The CSS exercised were very difficut. I needed the videos for a good number of them. However, these exercises
+were incrediby helpful. I woud have liked more discussion and exercises involving media ueries. Those were
+confusing.
