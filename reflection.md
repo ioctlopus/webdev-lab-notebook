@@ -24,4 +24,11 @@ and seems to address a lot of the difficulties I have had understanding position
 have lied to have a more detailed explaination about Flexbox properties. Maybe exercises demonstrating
 multiple layouts would have been helpful.
 
+### CSS Grid
+
+These exercises were very helpful, though I required a fair bit of guidance from the videos and solutions.
+I feel like more discussion of how the grid layout itself affects the positioning. Grids seem like something
+useful for almost any website. More exercises/examples in general woud help soidify my understanding of
+grids and their layout.
+
 ### Bootstrap
