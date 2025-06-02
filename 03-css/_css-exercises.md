@@ -36,7 +36,7 @@ input[type] {
 section .main::first-line {
 }
 
-nav ul.menu li#first a:not([class='visited']) {
+nav ul.menu li#first a:not([class="visited"]) {
 }
 
 div ol li ul li ol li ul li a {

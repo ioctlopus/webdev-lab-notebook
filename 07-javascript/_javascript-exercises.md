@@ -13,9 +13,9 @@
 Write a function `replaceItems` that takes in a string and returns a string where 'gold' is replaced by 'SHINY' and 'wander' is replaced by 'roam', regardless of the case of the letters.
 
 ```javascript
-console.log(replaceItems('All that is gold does not glitter'));
+console.log(replaceItems("All that is gold does not glitter"));
 // expected: 'All that is shiny does not glitter'
-console.log(replaceItems('Not all those who Wander are lost'));
+console.log(replaceItems("Not all those who Wander are lost"));
 // expected: 'Not all those who roam are lost'
 ```
 
@@ -35,18 +35,18 @@ console.log(formatItems([34.0, 12.0, 13.7, 760.1, 10.5]));
 Create functions for adding, deleting, looking up, and printing the items of an object.
 
 ```javascript
-insertItem('hello', 'world');
-insertItem('lorem', 'ipsum');
-insertItem('sit', 'amet');
+insertItem("hello", "world");
+insertItem("lorem", "ipsum");
+insertItem("sit", "amet");
 console.log(printItems());
 // expected: 'hello, lorem, sit' (order may be different)
-console.log(lookupItem('lorem'));
+console.log(lookupItem("lorem"));
 // expected: 'ipsum'
 
-deleteItem('lorem');
+deleteItem("lorem");
 console.log(printItems());
 // expected: 'hello, sit' (order may be different)
-console.log(lookupItem('lorem'));
+console.log(lookupItem("lorem"));
 // expected: 'Item does not exist'
 ```
 
@@ -101,7 +101,7 @@ console.log(mapNameFamily(characters));
 Write a function `filterFamily` that takes in a characters array and a house name in string format, and returns an array with only the characters from House Stark.
 
 ```javascript
-console.log(filterFamily(characters, 'Stark'));
+console.log(filterFamily(characters, "Stark"));
 // [
 //   { id: 1, name: 'Arya', house: 'Stark' },
 //   { id: 4, name: 'Sansa', house: 'Stark' },
@@ -111,7 +111,7 @@ console.log(filterFamily(characters, 'Stark'));
 //   { id: 28, name: 'Rickon', house: 'Stark' }
 // ]
 
-console.log(filterFamily(characters, 'Greyjoy'));
+console.log(filterFamily(characters, "Greyjoy"));
 // [
 //   { id: 83, name: 'Theon', house: 'Greyjoy' },
 //   { id: 84, name: 'Yara', house: 'Greyjoy' }

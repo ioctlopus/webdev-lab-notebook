@@ -32,3 +32,17 @@ useful for almost any website. More exercises/examples in general woud help soid
 grids and their layout.
 
 ### Bootstrap
+
+These exercises were great! I didn't need too much hep from the videos, as Bootstrap has greatdocumentation.
+I have no wishes for more exercises or explainations. Bootstrap is great! I will likely use Bootstrap
+ratherthan custom CSS for many projects.
+
+### Javascript
+
+The Javascript portion of the course was by far the most difficult part of the course. Javascript is a weird
+language. The heavy focus on functional programming patterns and the lack of type checking for user-defined
+objects make the language dense and difficult to grasp for someone used to typical procedural and object
+oriented language paradigms. The basics of the language could have been explained in more detail. I did
+need to reference the videos and solutions a ton for this problem set. Ideally, seeing some more exercises
+in general covering the fundamentals of Javascript would have been helpful. All of that being said, after
+completing these exercises, I feel much, much better about my understanding of Javascript and the DOM.
