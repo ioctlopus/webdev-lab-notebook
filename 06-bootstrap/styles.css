@@ -21,3 +21,11 @@ form > * {
 .box {
   height: 160px;
 }
+
+.grid-box {
+  background-color: purple;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  border: 1px solid white;
+}
